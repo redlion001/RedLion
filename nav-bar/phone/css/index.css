@@ -339,22 +339,6 @@ bottom: 14%;
       opacity: 0;
   }
 
-  .swiper-container{
-    width: 100%;
-    z-index: 2;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    user-select: none;
-    max-height: 70vh;
-  }
- .swiper-wrapper{
-    height: 70vh;
-  }
-
-
-
-
 
 
 /*=========================================== RESPONSIVE =========================================*/
